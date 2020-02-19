@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = 2020-02-19T23:00:00Z
 description = ""
 image = "/images/apple-iphone-launch.webp"
 tags = []
