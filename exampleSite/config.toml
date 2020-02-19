@@ -13,7 +13,7 @@ URL = "contact"
 name = "Contact"
 weight = 3
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML"]
 [params]
 address = "6 rip carl Avenue CA 90733"
 author = "Themefisher"
