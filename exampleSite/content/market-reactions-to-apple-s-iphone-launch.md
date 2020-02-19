@@ -5,7 +5,7 @@ description = ""
 image = "/images/apple-iphone-launch.webp"
 tags = []
 title = "Market reactions to Apple's iPhone launch"
-type = "post"
+type = "featured"
 
 +++
 Apple's (AAPL) 2007 launch of the first iPhone revolutionized the mobile industry and catapulted the company to one of the most valuable enterprises in the world.
