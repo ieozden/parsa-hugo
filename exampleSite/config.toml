@@ -15,19 +15,19 @@ weight = 3
 [outputs]
 home = ["HTML"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+address = ""
+author = ""
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = ""
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
+copyright = "Copyright &copy; 2020 Chart Trainer"
+description = "Chart trainer helps you develop intuition for potential stock market reactions to events."
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = ""
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true
